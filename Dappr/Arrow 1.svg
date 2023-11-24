@@ -1,0 +1,12 @@
+<svg width="40" height="24" viewBox="0 0 40 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="24" fill="#323232"/>
+<g id="desktop">
+<rect width="1728" height="2072" transform="translate(-1476 -1868)" fill="white"/>
+<g id="Group 8">
+<rect id="Rectangle 9" x="-1375" y="-601" width="1542" height="717" rx="21" fill="#483EFF"/>
+<rect id="Rectangle 10" x="-864" y="-570" width="1004" height="656" rx="19" fill="white"/>
+<rect id="Rectangle 16" x="-120" y="-28" width="207" height="78" rx="9" fill="black"/>
+<path id="Arrow 1" d="M39.0607 13.0607C39.6464 12.4749 39.6464 11.5251 39.0607 10.9393L29.5147 1.3934C28.9289 0.807611 27.9792 0.807611 27.3934 1.3934C26.8076 1.97919 26.8076 2.92893 27.3934 3.51472L35.8787 12L27.3934 20.4853C26.8076 21.0711 26.8076 22.0208 27.3934 22.6066C27.9792 23.1924 28.9289 23.1924 29.5147 22.6066L39.0607 13.0607ZM0 13.5H38V10.5H0L0 13.5Z" fill="white"/>
+</g>
+</g>
+</svg>
